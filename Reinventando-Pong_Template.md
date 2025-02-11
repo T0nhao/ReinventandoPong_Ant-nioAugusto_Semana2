@@ -2,57 +2,56 @@
 
 
 ## 1. Introdução  
-*Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
+A atividade ReinventandoPong tem o objetivo de trabalhar a criatividade e a inovação dentro do jogo Pong. Para isso nós decidimos recriar o jogo Pong por meio da reformulação da sua temática e da incrementação de uma nova mecânica. 
  
 ---
 
 ## 2. Pesquisa e Análise Inicial  
-*Explique as principais características do **jogo original Pong**, considerando os três elementos do **Framework MDA** e responda: o que torna Pong um jogo envolvente e jogável? Quais são seus **elementos principais de diversão e desafio**?*
+O jogo Pong em si tem uma mecânica que pode ser usada tanto a partir de uma interação direta com a tela ou por meio de botôes, essa interação é para movimentar uma barra que deve ser usada para rebater uma bolinha que se movimenta pela tela. O que torna o Pong envolvente e divertido é a sua jogabilidade rápida e simples, podendo, assim, ser jogado por qualquer um, além de ter a possibilidade de jogar com amigos, deixando o jogo cada vez mais competitivo e desafiador.
 
 ---
 
 ## 3. Proposta de Reinvenção  
-*Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
+O que tem de na reinvenção do pong
 
-*- **Tema e Ambientação:** Qual é o novo contexto do jogo?*
+- **Tema e Ambientação:** A reinvenção acontece no espaço dentro do cenário de Star Wars
 
-*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
+- **Personagens ou Elementos Visuais:** A reinvenção consta com a reformulação da imagem da bola usada no jogo agora sendo a estrela da morte, as barras para rebater a bola agora são sabres de luz e também foi incrementado uma nova mecânica que é caracterizada pelos stormtrooper. Todos os novos objetos são característicos da série Star Wars.
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
+- **Mudanças na Mecânica:** A nova proposta de mecânica apresentada pelos stormtroopers é que quando a bola encosta neles a bola é jogada em uma direção aleatória.
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+- **Objetivo da Reinvenção:** A nova versão pretende atingir novos públlicos com o uso do novo cenário e adicionar novas mecânicas para deixar o jogo mais desafiador e competitivo
+![Rascunho_pong](https://github.com/user-attachments/assets/f322cdc6-c967-44ae-8f45-a30462156a9f)
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
+O rascunho foi desenvolvido buscando representar os elementos principais que serão implementados como também a descrição de cada elemento.
+
+
 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+![PongStars_AntônioAugsuto-João_Agmont](https://github.com/user-attachments/assets/6c8926ce-8a10-4450-9a95-6a7dd6e26268)
 
-*- Como o concept foi adaptado para o formato digital?*
 
-*- Quais elementos visuais foram aprimorados?*  
+-Para representar o conceptal de maneira digital foi usada a ferramenta figma para criar desenho e implementar imagens
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+-Foi adicionado um fundo ilustrativo de um espaço, imagens representativas reais e desenhos criados pelos criadores do design
+
+-O uso de cores foi usado para aproximar o cenário de Star Wars e tentar representar as características dessa ficção
 
 ---
 
-## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
-
+## 5. Reflexão e Aprendizados   
+**Antônio Augusto**
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+ -A maior dificuldade na criação foi o desenvolvimento no figma, principalmente um detalhe em específico que é o pisicionamento dos intens. As vezes eu queria posicionar algo em uma posição mais ele pulava pra posição de baixo por causa das linhas que alinham. 
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+ -Foi aprimorada a capacidade de ser criativo reinventando coisas já existentes, a conversa em grupo para encontrar diferentes soluções e o desenvolvimenteo de criações no figma  
 
 ---
 
-## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+## 6. Referências 
 
 ---
 
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
 
