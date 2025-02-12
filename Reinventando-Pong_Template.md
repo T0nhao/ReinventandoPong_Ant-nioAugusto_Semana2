@@ -46,7 +46,14 @@ O rascunho foi desenvolvido buscando representar os elementos principais que ser
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?                                                            
  -A maior dificuldade na criação foi o desenvolvimento no figma, principalmente um detalhe em específico que é o pisicionamento dos intens. As vezes eu queria posicionar algo em uma posição mais ele pulava pra posição de baixo por causa das linhas que alinham. 
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?                                                                
- -Foi aprimorada a capacidade de ser criativo reinventando coisas já existentes, a conversa em grupo para encontrar diferentes soluções e o desenvolvimenteo de criações no figma  
+ -Foi aprimorada a capacidade de ser criativo reinventando coisas já existentes, a conversa em grupo para encontrar diferentes soluções e o desenvolvimenteo de criações no figma
+
+**João de Caprio Agmont**
+1) Quais foram os maiores desafios enfrentados durante o processo de criação?
+   Não tiveram muitas dificuldades pórem o que mais gastou nosso tempo além é claro dos problemas com o figma, foi decidir o projeto final pois muitas duplas ja tinham tido
+   a mesma ideia que nós então pensamos em algo diferente.
+2)  Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?
+   Conseguimos desenvolver a criatividade, além de aprendermos vários novos recursos com a plataforma figma.
 
 ---
 
